@@ -9,5 +9,5 @@ $conn = new mysqli($host, $user, $pass);
 if ($conn->connect_error) {
     die("Error de conexión: " . $conn->connect_error);
 }
-echo "¡Conexión exitosa a la base de datos!"; 
+echo "¡Conexión exitosa Practica 4.1 Terminada cpergar696!"; 
 ?>
